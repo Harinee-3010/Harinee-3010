@@ -1,140 +1,105 @@
-<!-- HEADER IMAGE / BANNER -->
+<!-- Profile Image -->
+<p align="left">
+  <img src="Image1.jpeg" width="160" style="border-radius: 50%;" />
+</p>
+
+# 👋 Hey Everyone, I'm **Harinee**
+
+### 🌌 Welcome to My GitHub Universe!
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
+- 🌱 Passionate AI & Data Science student  
+- 🎯 Focused on consistent learning  
+- 🧠 Love building impactful ML & full-stack projects  
+- 🤝 Open to collaborations  
+- 💻 Always exploring something new  
 
-<table>
-<tr>
-<td width="30%" align="center">
+---
 
-<img src="Image1.jpeg" width="160" style="border-radius: 50%;"/>
-
-</td>
-<td width="70%" align="left">
-
-I am an **AI & Data Science student** passionate about building intelligent, scalable systems using  
-**Machine Learning, LLMs, and Full-Stack Engineering**.
-
-- 🔍 Exploring: LLM Apps, Agentic AI, Full-Stack ML  
-- 💻 Coding: 1000+ CP Problems  
-- 🧠 Strong in Python, ML, Data Science  
-- 🏆 Research Paper Published (ICCCSS 2025)
-
-</td>
-</tr>
-</table>
-
-
-## 🛠 Tech Stack
-
-### **Languages**
+## 🔗 Connect With Me
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
-</p>
-
-### **AI / ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-### **Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django,bootstrap" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_MAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Activity Overview
+
+### 🔹 Contribution Stats (Auto-Updating)
+<p align="center">
+
+  <!-- Total Contributions (approx via last commit badge) -->
+  <img src="https://img.shields.io/github/last-commit/Harinee-3010/Harinee-3010?label=Total%20Contributions&style=for-the-badge&color=brightgreen" />
+
+  <!-- Active Days Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harinee-3010&theme=dark&hide_border=true" />
+</p>
+
+---
+
+# 🧮 Coding Profiles (Auto-Updating)
+
+### 🔸 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Harinee_30?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+### 🔸 CodeChef Stats  
+<p align="center">
+  <img src="https://codechef-card.vercel.app/api?username=harinee30&theme=dark" />
+</p>
+
+---
+
+# 📊 GitHub Stats & Languages
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harinee-3010&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harinee-3010&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
+# 💼 Featured Projects
+
+### 🎯 **Project 1 – Name**
+**Description:** Short description of what the project does.  
+**Tech Stack:** Python, ML, Flask  
+🔗 **Repo:** [GitHub Link](#)
+
+---
+
+### 🎯 **Project 2 – Name**
+**Description:** What problem it solves + impact.  
+**Tech Stack:** React, Firebase  
+🔗 **Repo:** [GitHub Link](#)
+
+---
+
+### 🎯 **Project 3 – Name**
+**Description:** Brief purpose of the project.  
+**Tech Stack:** Java, DSA  
+🔗 **Repo:** [GitHub Link](#)
+
+---
+
+# 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harinee-3010&theme=darkhub&margin-w=10&no-frame=true" />
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harinee-3010&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinee-3010&theme=tokyonight" width="48%" />
+  ⭐ If you like my work, consider starring my repositories!
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinee-3010&layout=compact&theme=tokyonight" width="40%">
-</p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harinee-3010/Harinee-3010/output/snake.svg" />
-</p>
-
----
-
-## 🧩 Competitive Programming Stats
-
-### **LeetCode**
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/harinee30?theme=dark&font=Karma" />
-</p>
-
-### **CodeChef**
-<p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/Harinee30" alt="CodeChef Rating">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 **Business Intelligence Hub — LLM Powered**
-AI-powered BI assistant for automatic insights & visualization suggestions.  
-**Tech:** Python, Pandas, Django, LLM API  
-🔗 *Repo:* (add link)
-
----
-
-### 🔹 **LLM-Powered Career Path Navigator**
-AI system for personalized career recommendations using ML + LLM reasoning.  
-**Tech:** HTML, CSS, JS, ML Models, LLM API  
-🔗 *Repo:* (add link)
-
----
-
-### 🔹 **Other Notable Works**
-- Satellite-based Oil Spill Detection (AI + CV)
-- Virtual Dressing Room (AR + CV)
-- Student Progress Checker (Django + ML)
-
----
-
-## 🏅 Achievements
-- ⭐ Solved **1000+ CP problems**
-- 🥈 2nd Prize – Tech Event @ KCE
-- 📜 Elite NPTEL Certification – Soft Skills
-- 🎓 Published Research Paper (ICCCSS 2025)
-
----
-
-## ☕ Let's Connect
-If you want to discuss AI, LLMs, career guidance, or fun side projects —  
-**I'm always happy to connect!**
-
-<p align="center">
-  <a href="mailto:kit27.aids22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/harinee308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Harinee-3010">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
