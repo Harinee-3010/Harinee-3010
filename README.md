@@ -71,7 +71,7 @@ I am an **AI & Data Science student** passionate about building intelligent, sca
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harinee-3010/Harinee-3010/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Harinee-3010/Harinee-3010/output/snake.svg" />
 </p>
 
 ---
