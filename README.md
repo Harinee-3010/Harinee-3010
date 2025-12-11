@@ -1,155 +1,140 @@
-<div align="center">
-  
-  <img src="[YOUR-IMAGE-FILENAME].png" alt="Harinee S Profile Picture" width="180" style="border-radius: 50%; border: 3px solid #61DAFB;"/>
-
-  # 👋 Hello, I'm **HARINEE S**
-  
-  ### 💡 AI Full-Stack Builder & Solutions Architect | Specializing in LLMs and Data-Centric Scalability
-
-  <p align="center">
-    <a href="https://linkedin.com/in/Harinee S">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:kit27.aids22@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://github.com/Harinee-3010">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    <a href="[YOUR PORTFOLIO WEBSITE URL]">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-  </p>
-</div>
+<!-- HEADER IMAGE / BANNER -->
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I am an **AI Full-Stack builder** with a strong foundation in **Machine Learning (ML)**, **LLMs**, and competitive programming, currently pursuing a B.Tech in AI & DS at **Kalaignar Karunanidhi Institute of Technology**.
+<table>
+<tr>
+<td width="30%" align="center">
 
-My focus is on creating **efficient, maintainable, and robust technical solutions** that translate complex data into actionable insights, as demonstrated in my LLM-powered projects. I am dedicated to continuous technical growth and problem-solving excellence.
+<img src="Image1.jpeg" width="160" style="border-radius: 50%;"/>
 
----
+</td>
+<td width="70%" align="left">
 
-## 💻 Technical Arsenal (Languages & Frameworks)
+I am an **AI & Data Science student** passionate about building intelligent, scalable systems using  
+**Machine Learning, LLMs, and Full-Stack Engineering**.
 
-A comprehensive look at the tools and languages I use to build scalable solutions:
+- 🔍 Exploring: LLM Apps, Agentic AI, Full-Stack ML  
+- 💻 Coding: 1000+ CP Problems  
+- 🧠 Strong in Python, ML, Data Science  
+- 🏆 Research Paper Published (ICCCSS 2025)
 
-### Core Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</div>
+</td>
+</tr>
+</table>
 
-### AI/ML & Data Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-5E24B0?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-39A6A3?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Data%20Science-4A154B?style=for-the-badge&logo=datascience&logoColor=white" alt="Data Science"/>
-</div>
 
-### Web & Database
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</div>
+## 🛠 Tech Stack
 
-### Tools & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-</div>
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+</p>
 
----
+### **AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
-## 🌟 Featured Projects
+### **Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django,bootstrap" />
+</p>
 
-| Project | Description | Tech Stack Highlights |
-| :--- | :--- | :--- |
-| **Business Intelligence Hub using LLM** | Built an LLM-powered BI assistant for automated insights and visualization suggestions. **Enabled natural-language querying** for instant data analysis without manual processing. | `Python`, `Pandas`, `LLM API`, `Django` |
-| **LLM-Powered Career Path Navigator** | Developed an AI system for **personalized career recommendations** using ML and LLM reasoning. Integrated interest analysis and skill mapping; presented at the ICCCSS Conference. | `HTML`, `CSS`, `JavaScript`, `ML Models`, `LLM API` |
-| **[Project Name 3 Placeholder]** | [One-sentence description of your third best project and its impact.] | [Tech Stack 1], [Tech Stack 2], [Tech Stack 3] |
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🥇 Competitive Programming & Achievements
+## 📊 GitHub Stats
 
-I actively participate in competitive programming to sharpen my problem-solving skills and algorithmic thinking.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harinee-3010&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinee-3010&theme=tokyonight" width="48%" />
+</p>
 
-### Competitive Profile Links
-<div align="center">
-  
-  <a href="[YOUR CODECHEF PROFILE URL]">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
-  </a>
-  <a href="[YOUR LEETCODE PROFILE URL]">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
-  <a href="[YOUR CODEFORCES PROFILE URL]">
-    <img src="https://img.shields.io/badge/Codeforces-445CC8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
-  </a>
-  <a href="[LINK TO STRIVER SDE SHEET PROGRESS]">
-    <img src="https://img.shields.io/badge/Striver%20SDE%20Sheet-FF44A0?style=for-the-badge&logo=star&logoColor=white" alt="Striver SDE Sheet Badge"/>
-  </a>
-  
-</div>
-
-### Dynamic Stats
-
-* **1000+ problems solved** across platforms.
-* **CodeChef (Div 3):** Max Rating 1452, Global Rank 36,311.
-* **LeetCode:** 300+ problems solved, Max Rating 1240.
-
-<div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=[YOUR CODEFORCES USERNAME]&theme=vue" alt="Codeforces Stats" style="margin-bottom: 20px;"/>
-  
-  <img src="https://codechef-readme-stats.onrender.com/[YOUR CODECHEF USERNAME]?v=1" alt="CodeChef Stats" style="margin-bottom: 20px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Harinee-3010&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" alt="Harinee S GitHub Stats" style="margin-bottom: 20px;"/>
-
-</div>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinee-3010&layout=compact&theme=tokyonight" width="40%">
+</p>
 
 ---
 
-## 🎓 Certifications & Professional Badges
+## 🐍 Contribution Snake
 
-### Salesforce & Learning Badges
-
-I am committed to formal training and staying current with industry certifications.
-
-<div align="center">
-  <a href="[LINK TO SALESFORCE CERTIFICATE 1]">
-      <img src="[SALESFORCE BADGE IMAGE URL 1]" alt="Salesforce Badge 1" height="50"/>
-  </a>
-  <a href="[LINK TO SALESFORCE CERTIFICATE 2]">
-      <img src="[SALESFORCE BADGE IMAGE URL 2]" alt="Salesforce Badge 2" height="50"/>
-  </a>
-  
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20with%20GenAI-9013FE?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL GenAI"/>
-  <img src="https://img.shields.io/badge/Coursera-Generative%20AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera GenAI"/>
-  <img src="https://img.shields.io/badge/Coursera-Full%20Stack%20Dev-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Full Stack"/>
-</div>
-
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harinee-3010/Harinee-3010/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📧 Let's Connect
+## 🧩 Competitive Programming Stats
 
-I am actively seeking opportunities to apply my full-stack and AI skills in a professional setting. Feel free to connect for technical discussions or collaboration!
+### **LeetCode**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/harinee30?theme=dark&font=Karma" />
+</p>
 
-> "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will." - Vince Lombardi
+### **CodeChef**
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/Harinee30" alt="CodeChef Rating">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **Business Intelligence Hub — LLM Powered**
+AI-powered BI assistant for automatic insights & visualization suggestions.  
+**Tech:** Python, Pandas, Django, LLM API  
+🔗 *Repo:* (add link)
+
+---
+
+### 🔹 **LLM-Powered Career Path Navigator**
+AI system for personalized career recommendations using ML + LLM reasoning.  
+**Tech:** HTML, CSS, JS, ML Models, LLM API  
+🔗 *Repo:* (add link)
+
+---
+
+### 🔹 **Other Notable Works**
+- Satellite-based Oil Spill Detection (AI + CV)
+- Virtual Dressing Room (AR + CV)
+- Student Progress Checker (Django + ML)
+
+---
+
+## 🏅 Achievements
+- ⭐ Solved **1000+ CP problems**
+- 🥈 2nd Prize – Tech Event @ KCE
+- 📜 Elite NPTEL Certification – Soft Skills
+- 🎓 Published Research Paper (ICCCSS 2025)
+
+---
+
+## ☕ Let's Connect
+If you want to discuss AI, LLMs, career guidance, or fun side projects —  
+**I'm always happy to connect!**
+
+<p align="center">
+  <a href="mailto:kit27.aids22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/harinee308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Harinee-3010">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
