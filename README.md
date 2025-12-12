@@ -1,7 +1,3 @@
-<!-- Profile Image -->
-<!--<p align="left">
-  <img src="Image1.jpeg" width="160" style="border-radius: 50%;" />
-</p> -->
 
 # 👋 Hey Everyone, I'm **Harinee**
 
@@ -20,11 +16,27 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_MAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <!-- GitHub -->
+  <a href="https://github.com/Harinee-3010" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/harinee308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:kit27.aids22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/916385604904" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -56,17 +68,23 @@
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harinee-3010&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harinee-3010&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
 ---
-
 # 💼 Featured Projects
 
 ---
 
 ## 🎯 **Project 1 – BI Hub: Business Intelligence Analytics Platform**
+
+<table>
+<tr>
+<td width="30%">
+  <!-- Replace with your project image -->
+  <img src="YOUR_IMAGE_URL" width="100%" style="border-radius:10px;">
+</td>
+<td width="70%">
+
 **Description:**  
-A unified BI dashboard platform that simplifies data exploration with interactive visuals. It provides insights into sales, KPIs, and patterns using a clean, streamlined interface.
+A unified BI dashboard platform that simplifies data exploration with interactive visuals. It provides insights into sales, KPIs, and performance patterns.
 
 **Tech Stack:** Power BI, Excel, Data Visualization  
 🔗 **Repo:** [BI Hub Project](https://github.com/Harinee-3010/bi-hub-project)
@@ -75,20 +93,32 @@ A unified BI dashboard platform that simplifies data exploration with interactiv
   <img src="https://img.shields.io/badge/Data%20Dashboard-PowerBI-blue?style=for-the-badge" />
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎯 **Project 2 – NextStep AI: Career Path Recommendation System**
+
+<table>
+<tr>
+<td width="30%">
+  <!-- Replace with your project image -->
+  <img src="YOUR_IMAGE_URL" width="100%" style="border-radius:10px;">
+</td>
+<td width="70%">
+
 **Description:**  
-An AI-powered career navigator that analyzes user skills and interests to generate a personalized career roadmap. It features skill-gap analysis, role recommendations, learning resources, and market insights.
+An AI-powered career navigator that analyzes user skills and interests to create a personalized career roadmap. Includes skill-gap analysis, role recommendations, curated learning resources, and market insights.
 
 **Key Highlights:**  
 - AI-based personalized career paths  
 - Skill-gap analysis  
 - Dynamic step-by-step roadmap  
-- Curated learning resources  
-- Market trend insights  
+- Learning resources & market insights  
 
-**Tech Stack:** HTML, CSS, JavaScript, AI-Based Recommendation Logic  
+**Tech Stack:** HTML, CSS, JavaScript, ML/LLM Logic  
 🔗 **Live:** [NextStep AI](https://harinee-3010.github.io/Next-step-AI/)
 
 <p align="left">
@@ -96,18 +126,31 @@ An AI-powered career navigator that analyzes user skills and interests to genera
   <img src="https://img.shields.io/badge/Career%20Guide-ML%20Based-green?style=for-the-badge" />
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎯 **Project 3 – Amazon Prime Video Insights Dashboard**
+
+<table>
+<tr>
+<td width="30%">
+  <!-- Replace with your project image -->
+  <img src="YOUR_IMAGE_URL" width="100%" style="border-radius:10px;">
+</td>
+<td width="70%">
+
 **Description:**  
-A Power BI dashboard delivering insights into Amazon Prime Video’s content library. It features genre trends, ratings, country contributions, and movie vs series distribution for a clear understanding of the platform’s catalog.
+A Power BI dashboard revealing insights about Amazon Prime Video’s catalog. It includes genre trends, ratings distribution, global contributions, and movie vs series analysis.
 
 **Key Highlights:**  
-- Genre-based content insights  
-- Movies vs TV Shows comparison  
+- Genre-based insights  
 - Global content distribution  
-- Release year trend analysis  
-- Ratings distribution  
+- Trend analysis  
+- Ratings breakdown  
+- Movies vs TV shows comparison  
 
 **Tech Stack:** Power BI, Data Visualization  
 🔗 **Repo:** [Amazon Prime Dashboard](https://github.com/Harinee-3010/Amazon_prime_Dashboard)
@@ -115,6 +158,13 @@ A Power BI dashboard delivering insights into Amazon Prime Video’s content lib
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon%20Prime%20Analytics-PowerBI-orange?style=for-the-badge" />
 </p>
+
+</td>
+</tr>
+</table>
+
+---
+
 
 ---
 
