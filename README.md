@@ -1,7 +1,7 @@
 <!-- Profile Image -->
-<p align="left">
+<!--<p align="left">
   <img src="Image1.jpeg" width="160" style="border-radius: 50%;" />
-</p>
+</p> -->
 
 # 👋 Hey Everyone, I'm **Harinee**
 
