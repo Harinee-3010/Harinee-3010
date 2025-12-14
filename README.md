@@ -42,7 +42,7 @@
 
 ### 🔸 CodeChef Profile
 <p align="center">
-  <a href="https://www.codechef.com/users/Harinee_30" target="_blank">
+  <a href="https://www.codechef.com/users/harinee30" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Harinee_30-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
