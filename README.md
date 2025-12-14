@@ -138,19 +138,12 @@ An AI-powered career navigator that analyzes user skills and interests to create
 <tr>
 <td width="30%">
   <!-- Replace with your project image -->
-  <img src="YOUR_IMAGE_URL" width="100%" style="border-radius:10px;">
+  <img src="amazonproject.png" height="100%" width="100%" style="border-radius:10px;">
 </td>
 <td width="70%">
 
 **Description:**  
 A Power BI dashboard revealing insights about Amazon Prime Video’s catalog. It includes genre trends, ratings distribution, global contributions, and movie vs series analysis.
-
-**Key Highlights:**  
-- Genre-based insights  
-- Global content distribution  
-- Trend analysis  
-- Ratings breakdown  
-- Movies vs TV shows comparison  
 
 **Tech Stack:** Power BI, Data Visualization  
 🔗 **Repo:** [Amazon Prime Dashboard](https://github.com/Harinee-3010/Amazon_prime_Dashboard)
