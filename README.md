@@ -79,19 +79,22 @@
 <tr>
 <td width="30%">
   <!-- Replace with your project image -->
-  <img src="YOUR_IMAGE_URL" width="100%" style="border-radius:10px;">
+  <img src="bihub-home.png" width="100%" style="border-radius:10px;">
 </td>
 <td width="70%">
 
 **Description:**  
-A unified BI dashboard platform that simplifies data exploration with interactive visuals. It provides insights into sales, KPIs, and performance patterns.
+The Business Intelligence Hub is a secure, full-stack web application that transforms raw data into actionable insights using advanced AI. It features an intelligent Customer Feedback Analyzer, a conversational "Chat with Data" engine, and automated AI dashboards with predictive sales forecasting. Built with Django and Google Gemini, this containerized solution bridges the gap between complex data and executive decision-making.
 
-**Tech Stack:** Power BI, Excel, Data Visualization  
+**Tech Stack:** Django 5, RAG Architecture, Pandas & Statsmodels, Chart.js.   
 🔗 **Repo:** [BI Hub Project](https://github.com/Harinee-3010/bi-hub-project)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data%20Dashboard-PowerBI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-purple?style=for-the-badge" />
 </p>
+
 
 </td>
 </tr>
@@ -105,18 +108,12 @@ A unified BI dashboard platform that simplifies data exploration with interactiv
 <tr>
 <td width="30%">
   <!-- Replace with your project image -->
-  <img src="YOUR_IMAGE_URL" width="100%" style="border-radius:10px;">
+  <img src="CNform.png" width="100%" style="border-radius:10px;">
 </td>
 <td width="70%">
 
 **Description:**  
 An AI-powered career navigator that analyzes user skills and interests to create a personalized career roadmap. Includes skill-gap analysis, role recommendations, curated learning resources, and market insights.
-
-**Key Highlights:**  
-- AI-based personalized career paths  
-- Skill-gap analysis  
-- Dynamic step-by-step roadmap  
-- Learning resources & market insights  
 
 **Tech Stack:** HTML, CSS, JavaScript, ML/LLM Logic  
 🔗 **Live:** [NextStep AI](https://harinee-3010.github.io/Next-step-AI/)
