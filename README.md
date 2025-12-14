@@ -1,4 +1,5 @@
-# 👋 Hey Everyone, I'm **Harinee**
+<h1 align="center">Hi, I'm Harinee.</h1>
+<h3 align="center">AI & Data Science | Full-Stack Development</h3>
 
 ### 🌌 Welcome to My GitHub Universe!
 
