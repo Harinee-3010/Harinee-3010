@@ -92,7 +92,7 @@ The Business Intelligence Hub is a secure, full-stack web application that trans
 An AI-powered career navigator that analyzes user skills and interests to create a personalized career roadmap. Includes skill-gap analysis, role recommendations, curated learning resources, and market insights.
 
 **Tech Stack:** HTML, CSS, JavaScript, ML/LLM Logic  
-🔗 **Live:** [NextStep AI]()
+🔗 **Repo:** [NextStep AI](https://github.com/Harinee-3010/Next-step-AI)
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Roadmap-NextStep%20AI-purple?style=for-the-badge" />
