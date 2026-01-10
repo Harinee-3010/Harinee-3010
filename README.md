@@ -66,6 +66,7 @@ The Business Intelligence Hub is a secure, full-stack web application that trans
 
 **Tech Stack:** Django 5, RAG Architecture, Pandas & Statsmodels, Chart.js  
 🔗 **Repo:** [BI Hub Project](https://github.com/Harinee-3010/bi-hub-project)
+🚀 **Live Demo:** <a href="https://bi-hub-final.onrender.com">https://bi-hub-final.onrender.com</a>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
