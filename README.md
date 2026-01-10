@@ -35,20 +35,6 @@
 
 <hr style="border: 0; border-top: 1px solid #000000;" />
 
-# 🧮 Coding Profiles 
-### 🔸LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Harinee_30?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
-### 🔸 CodeChef Profile
-<p align="center">
-  <a href="https://www.codechef.com/users/harinee30" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Harinee_30-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
-<hr style="border: 0; border-top: 1px solid #000000;" />
 
 # 💼 Featured Projects
 
@@ -65,7 +51,7 @@
 The Business Intelligence Hub is a secure, full-stack web application that transforms raw data into actionable insights using advanced AI. It features an intelligent Customer Feedback Analyzer, a conversational "Chat with Data" engine, and automated AI dashboards with predictive sales forecasting. Built with Django and Google Gemini, this containerized solution bridges the gap between complex data and executive decision-making.
 
 **Tech Stack:** Django 5, RAG Architecture, Pandas & Statsmodels, Chart.js  
-🔗 **Repo:** [BI Hub Project](https://github.com/Harinee-3010/bi-hub-project)
+🔗 **Repo:** [BI Hub Project](https://github.com/Harinee-3010/bi-hub-project)<br/>
 🚀 **Live Demo:** <a href="https://bi-hub-final.onrender.com">https://bi-hub-final.onrender.com</a>
 
 <p align="left">
@@ -128,6 +114,21 @@ A Power BI dashboard revealing insights about Amazon Prime Video’s catalog. It
 </td>
 </tr>
 </table>
+
+<hr style="border: 0; border-top: 1px solid #000000;" />
+
+# 🧮 Coding Profiles 
+### 🔸LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Harinee_30?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+### 🔸 CodeChef Profile
+<p align="center">
+  <a href="https://www.codechef.com/users/harinee30" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Harinee_30-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
 <hr style="border: 0; border-top: 1px solid #000000;" />
 
